@@ -1,0 +1,3 @@
+Centrs izveidots projekta “Digitālā jauniešu centra attīstība Liepājā un Klaipēdā” ietvaros. Projekta mērķis ir veicināt sociālās atstumtības riskam pakļauto jauniešu iekļaušanu sabiedrībā, izmantojot digitālās tehnoloģijas un personalizētu pieeju. Īpaša uzmanība projektā pievērsta jauniešiem ar procesu atkarību riskiem, palīdzot viņiem stiprināt sociālās prasmes, veidot piederības sajūtu, attīstīt digitālās iemaņas un atrast pozitīvus veidus, kā iesaistīties sabiedriskajā dzīvē.
+
+Projekts tiek īstenots ar Interreg VI-A Latvijas–Lietuvas programmas atbalstu. Tā kopējais ilgums ir 24 mēneši, un kopējais budžets ir 416 727,50 EUR, no kuriem 80 % finansē Eiropas Reģionālās attīstības fonds.
